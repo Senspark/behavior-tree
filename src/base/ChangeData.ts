@@ -1,7 +1,7 @@
-import { BaseBehaviorTree } from "./BaseBehaviorTree";
-import { BaseTask } from "./BaseTask";
-import { Task } from "./Task";
-import { TaskStatus } from "./TaskStatus";
+import { BaseBehaviorTree } from "../BaseBehaviorTree";
+import { BaseTask } from "../BaseTask";
+import { Task } from "../Task";
+import { TaskStatus } from "../TaskStatus";
 
 export class ChangeData<T, U> extends BaseTask<T> {
     private mapper: (data: T) => U;

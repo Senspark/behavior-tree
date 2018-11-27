@@ -1,4 +1,4 @@
-import { LeafTask } from "../LeafTask";
+import { LeafTask } from "../base";
 import { TaskStatus } from "../TaskStatus";
 
 type ActionTaskStart<T> = (data: T) => void;

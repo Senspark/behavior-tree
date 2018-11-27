@@ -1,4 +1,4 @@
-import { BranchTask } from "../BranchTask";
+import { BranchTask } from "../base";
 import { Task } from "../Task";
 
 /**

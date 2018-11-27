@@ -1,6 +1,6 @@
-import { BaseTask } from "./BaseTask";
-import { Task } from "./Task";
-import { TaskStatus } from "./TaskStatus";
+import { BaseTask } from "../BaseTask";
+import { Task } from "../Task";
+import { TaskStatus } from "../TaskStatus";
 
 /**
  * A decorator is a wrapper that provides custom behavior for its child.

@@ -1,5 +1,5 @@
+import { Decorator } from "../base";
 import { TimeData } from "../data";
-import { Decorator } from "../Decorator";
 
 export class MultiplyTime<T extends TimeData> extends Decorator<T> {
     private multiplier: number;

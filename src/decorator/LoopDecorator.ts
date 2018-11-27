@@ -1,4 +1,4 @@
-import { Decorator } from "../Decorator";
+import { Decorator } from "../base";
 import { Task } from "../Task";
 import { TaskStatus } from "../TaskStatus";
 

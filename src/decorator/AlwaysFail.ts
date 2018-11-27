@@ -1,4 +1,4 @@
-import { Decorator } from "../Decorator";
+import { Decorator } from "../base";
 import { Task } from "../Task";
 
 /** An AlwaysFail decorator will fail no matter the wrapped task fails or succeeds. */

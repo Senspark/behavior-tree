@@ -1,4 +1,4 @@
-import { LeafTask } from "../LeafTask";
+import { LeafTask } from "../base";
 import { TaskStatus } from "../TaskStatus";
 
 /** Failure is a leaf that immediately fails. */

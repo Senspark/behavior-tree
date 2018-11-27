@@ -1,5 +1,5 @@
+import { Task } from "../Task";
 import { BranchTask } from "./BranchTask";
-import { Task } from "./Task";
 
 export abstract class SingleRunningChildBranch<T> extends BranchTask<T> {
     /** The child in the running status or undefined if no child is running. */

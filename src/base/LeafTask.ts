@@ -1,6 +1,6 @@
-import { BaseTask } from "./BaseTask";
-import { Task } from "./Task";
-import { TaskStatus } from "./TaskStatus";
+import { BaseTask } from "../BaseTask";
+import { Task } from "../Task";
+import { TaskStatus } from "../TaskStatus";
 
 /**
  * A LeafTask is a terminal task of a behavior tree,

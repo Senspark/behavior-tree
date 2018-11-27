@@ -1,5 +1,5 @@
-import { BaseTask } from "./BaseTask";
-import { Task } from "./Task";
+import { BaseTask } from "../BaseTask";
+import { Task } from "../Task";
 
 /**
  * A branch task defines a behavior tree branch,

@@ -1,4 +1,4 @@
-import { SingleRunningChildBranch } from "../SingleRunningChildBranch";
+import { SingleRunningChildBranch } from "../base";
 import { Task } from "../Task";
 
 /**

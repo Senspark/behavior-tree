@@ -1,4 +1,4 @@
-import { LeafTask } from "../LeafTask";
+import { LeafTask } from "../base";
 import { TaskStatus } from "../TaskStatus";
 
 /** Success is a leaf that immediately succeeds. */

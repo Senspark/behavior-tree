@@ -1,5 +1,5 @@
+import { LeafTask } from "../base";
 import { TimeData } from "../data";
-import { LeafTask } from "../LeafTask";
 import { TaskStatus } from "../TaskStatus";
 
 /** Wait is a leaf that keeps running for the specified amount of time then succeeds. */
