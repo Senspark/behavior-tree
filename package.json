@@ -1,0 +1,27 @@
+{
+    "description": "behavior tree",
+    "version": "1.0.0",
+    "author": "senspark",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/Senspark/behavior-tree/issues"
+    },
+    "main": "dist/index.js",
+    "homepage": "https://github.com/Senspark/behavior-tree#readme",
+    "keywords": [
+        "behavior-tree"
+    ],
+    "scripts": {
+        "build": "tsc"
+    },
+    "types": "dist/index.d.ts",
+    "name": "@senspark/behavior-tree",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Senspark/behavior-tree.git"
+    },
+    "dependencies": {},
+    "devDependencies": {
+        "@types/node": "^10.12.10"
+    }
+}
